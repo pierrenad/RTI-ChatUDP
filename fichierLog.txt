@@ -1,0 +1,118 @@
+13/01/2020 14:06:00 > Démarrage pool de thread # serveur frontiere
+13/01/2020 14:06:00 > Avant getTache # thread client
+13/01/2020 14:06:00 > ************ Serveur en attente # serveur frontiere
+13/01/2020 14:06:00 > Avant getTache # thread client
+13/01/2020 14:06:00 > Avant getTache # thread client
+13/01/2020 14:06:08 > /192.168.1.55:50334 # accept # serveur frontiere
+13/01/2020 14:06:09 > Requete lue par le serveur # serveur frontiere
+13/01/2020 14:06:09 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 14:06:09 > Run de tachesEnCours # thread client
+13/01/2020 14:06:09 > ************ Serveur en attente # serveur frontiere
+13/01/2020 14:06:09 > Logged # RequeteFecop
+13/01/2020 14:08:19 > /192.168.1.55:50337 # accept # serveur frontiere
+13/01/2020 14:08:19 > Requete lue par le serveur # serveur frontiere
+13/01/2020 14:08:19 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 14:08:19 > Run de tachesEnCours # thread client
+13/01/2020 14:08:19 > ************ Serveur en attente # serveur frontiere
+13/01/2020 14:08:19 > Logged # RequeteFecop
+13/01/2020 21:10:01 > Démarrage pool de thread # serveur frontiere
+13/01/2020 21:10:01 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:10:01 > Avant getTache # thread client
+13/01/2020 21:10:01 > Avant getTache # thread client
+13/01/2020 21:10:01 > Avant getTache # thread client
+13/01/2020 21:10:07 > /192.168.1.55:51896 # accept # serveur frontiere
+13/01/2020 21:10:07 > Requete lue par le serveur # serveur frontiere
+13/01/2020 21:10:07 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 21:10:07 > Run de tachesEnCours # thread client
+13/01/2020 21:10:07 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:10:07 > Logged # RequeteFecop
+13/01/2020 21:21:31 > /192.168.1.55:51958 # accept # serveur frontiere
+13/01/2020 21:21:31 > Requete lue par le serveur # serveur frontiere
+13/01/2020 21:21:31 > Run de tachesEnCours # thread client
+13/01/2020 21:21:31 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 21:21:31 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:21:31 > Logged # RequeteFecop
+13/01/2020 21:23:08 > /192.168.1.55:51961 # accept # serveur frontiere
+13/01/2020 21:23:08 > Requete lue par le serveur # serveur frontiere
+13/01/2020 21:23:08 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 21:23:08 > Run de tachesEnCours # thread client
+13/01/2020 21:23:08 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:23:08 > Logged # RequeteFecop
+13/01/2020 21:24:42 > /192.168.1.55:51968 # accept # serveur frontiere
+13/01/2020 21:24:42 > Requete lue par le serveur # serveur frontiere
+13/01/2020 21:24:42 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 21:24:42 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:25:07 > Démarrage pool de thread # serveur frontiere
+13/01/2020 21:25:07 > Avant getTache # thread client
+13/01/2020 21:25:07 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:25:07 > Avant getTache # thread client
+13/01/2020 21:25:07 > Avant getTache # thread client
+13/01/2020 21:25:14 > /192.168.1.55:51969 # accept # serveur frontiere
+13/01/2020 21:25:14 > Requete lue par le serveur # serveur frontiere
+13/01/2020 21:25:14 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 21:25:14 > Run de tachesEnCours # thread client
+13/01/2020 21:25:14 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:25:14 > Logged # RequeteFecop
+13/01/2020 21:25:28 > /192.168.1.55:51970 # accept # serveur frontiere
+13/01/2020 21:25:28 > Requete lue par le serveur # serveur frontiere
+13/01/2020 21:25:28 > Run de tachesEnCours # thread client
+13/01/2020 21:25:28 > Ajout d'un travail dans la file # serveur frontiere
+13/01/2020 21:25:28 > ************ Serveur en attente # serveur frontiere
+13/01/2020 21:25:28 > Logged # RequeteFecop
+14/01/2020 09:24:42 > Démarrage pool de thread # serveur frontiere
+14/01/2020 09:24:42 > Avant getTache # thread client
+14/01/2020 09:24:42 > ************ Serveur en attente # serveur frontiere
+14/01/2020 09:24:42 > Avant getTache # thread client
+14/01/2020 09:24:42 > Avant getTache # thread client
+14/01/2020 09:24:50 > /10.222.0.66:51414 # accept # serveur frontiere
+14/01/2020 09:24:50 > Requete lue par le serveur # serveur frontiere
+14/01/2020 09:24:50 > Ajout d'un travail dans la file # serveur frontiere
+14/01/2020 09:24:50 > Run de tachesEnCours # thread client
+14/01/2020 09:24:50 > ************ Serveur en attente # serveur frontiere
+14/01/2020 09:24:50 > Logged # RequeteFecop
+14/01/2020 09:57:41 > Démarrage pool de thread # serveur frontiere
+14/01/2020 09:57:41 > ************ Serveur en attente # serveur frontiere
+14/01/2020 09:57:41 > Avant getTache # thread client
+14/01/2020 09:57:41 > Avant getTache # thread client
+14/01/2020 09:57:41 > Avant getTache # thread client
+14/01/2020 09:59:31 > Démarrage pool de thread # serveur frontiere
+14/01/2020 09:59:31 > Avant getTache # thread client
+14/01/2020 09:59:31 > Avant getTache # thread client
+14/01/2020 09:59:31 > Avant getTache # thread client
+14/01/2020 09:59:31 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:01:13 > Démarrage pool de thread # serveur frontiere
+14/01/2020 10:01:14 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:01:14 > Avant getTache # thread client
+14/01/2020 10:01:14 > Avant getTache # thread client
+14/01/2020 10:01:14 > Avant getTache # thread client
+14/01/2020 10:01:26 > /10.222.0.66:51544 # accept # serveur frontiere
+14/01/2020 10:01:26 > Requete lue par le serveur # serveur frontiere
+14/01/2020 10:01:26 > Ajout d'un travail dans la file # serveur frontiere
+14/01/2020 10:01:26 > Run de tachesEnCours # thread client
+14/01/2020 10:01:26 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:01:27 > Avant getTache # thread client
+14/01/2020 10:01:35 > /10.222.0.66:51547 # accept # serveur frontiere
+14/01/2020 10:01:35 > Requete lue par le serveur # serveur frontiere
+14/01/2020 10:01:35 > Run de tachesEnCours # thread client
+14/01/2020 10:01:35 > Ajout d'un travail dans la file # serveur frontiere
+14/01/2020 10:01:35 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:01:35 > Avant getTache # thread client
+14/01/2020 10:30:01 > Démarrage pool de thread # serveur frontiere
+14/01/2020 10:30:01 > Avant getTache # thread client
+14/01/2020 10:30:01 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:30:01 > Avant getTache # thread client
+14/01/2020 10:30:01 > Avant getTache # thread client
+14/01/2020 10:30:07 > /10.222.0.66:51832 # accept # serveur frontiere
+14/01/2020 10:30:07 > Requete lue par le serveur # serveur frontiere
+14/01/2020 10:30:07 > Ajout d'un travail dans la file # serveur frontiere
+14/01/2020 10:30:07 > Run de tachesEnCours # thread client
+14/01/2020 10:30:07 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:30:07 > Logged # RequeteFecop
+14/01/2020 10:30:22 > /10.222.0.66:51835 # accept # serveur frontiere
+14/01/2020 10:30:22 > Requete lue par le serveur # serveur frontiere
+14/01/2020 10:30:22 > Run de tachesEnCours # thread client
+14/01/2020 10:30:22 > Ajout d'un travail dans la file # serveur frontiere
+14/01/2020 10:30:22 > ************ Serveur en attente # serveur frontiere
+14/01/2020 10:30:22 > Logged # RequeteFecop
+14/01/2020 10:31:15 > Avant getTache # thread client
+14/01/2020 10:31:15 > Avant getTache # thread client
